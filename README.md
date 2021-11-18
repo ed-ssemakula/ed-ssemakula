@@ -18,6 +18,7 @@ I love the challenge of developing creative software, websites, and whatever you
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3c873a)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=323330)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&color=0b75a7)
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&color=61DAFB)
 ![](https://img.shields.io/badge/Code-React%20Native-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
