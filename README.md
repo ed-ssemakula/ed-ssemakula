@@ -1,14 +1,6 @@
-[![Deogratius Ssemakula](https://res.cloudinary.com/cyberon/image/upload/v1637173124/deogratius/git-cover_tba0nt.gif)](https://www.ds.cyberontech.com)
-
-### Hi there, I am Deogratius 👋
+### Hi there, I am Deograsius 👋
 
 I am a Full stack engineer 💻
-
-I love the challenge of developing creative software, websites, and whatever you call it :smiley: Nature is a charm | Learning new stuff is lovely too!
-
-## 🔭 I'm currently working on
-
-- E-learning Web App (Node.js, Next.js, PostgreSQL, AWS)
 
 ## 🌱 I'm currently learning
 
@@ -36,3 +28,7 @@ I love the challenge of developing creative software, websites, and whatever you
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+
+## Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberon256&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs&custom_title=Stats)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberon256&langs_count=5&theme=tokyonight)]()
